@@ -42,7 +42,7 @@ See [INSTRUCTIONS_PIX3D.md](INSTRUCTIONS_PIX3D.md) for more instructions.
 ### ShapeNet
 See [INSTRUCTIONS_SHAPENET.md](INSTRUCTIONS_SHAPENET.md) for more instructions.
 
-## References
+
 [1]: https://arxiv.org/abs/1906.02739
 [gg]: https://github.com/gkioxari
 [jj]: https://github.com/jcjohnson
